@@ -6,7 +6,7 @@ SCK -> io 14
 
 SDA -> io 13
 
-AO -> io 02
+A0 -> io 02
 
 Reset -> io 12
 
